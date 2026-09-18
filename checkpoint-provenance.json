@@ -1,0 +1,7 @@
+{
+  "checkpoint": "5e-5-step10000",
+  "template": "Explicit embedded tokenizer_config Think template; rendered inputs identical to released-main comparison.",
+  "comparison_run": "sft-jbb-efcce86f8389",
+  "hardware": "2 A100 80GB; vLLM 0.29.0; tensor parallel 2; max model length 20480",
+  "methods_source": "https://github.com/arbdwj/VEA-through-training/blob/2b92e419499bae35a6226422fe0970c124683298/draft_old/post.md"
+}

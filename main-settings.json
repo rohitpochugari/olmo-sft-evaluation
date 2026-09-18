@@ -1,0 +1,22 @@
+{
+  "model": "allenai/Olmo-3-32B-Think-SFT",
+  "revision": "a6d7f3cf497c7049712c13a664c65c7992f2da0c",
+  "template_model": "allenai/Olmo-3-32B-Think-SFT",
+  "template_revision": "a6d7f3cf497c7049712c13a664c65c7992f2da0c",
+  "source_commit": "2c1379ee9648c16884bb1634d554a27154d7a01c",
+  "stage": "sft",
+  "benchmark": "jbb",
+  "settings": {
+    "max_tokens": 8192,
+    "temperature": 0.6,
+    "top_p": 0.95,
+    "seed": 42,
+    "n": 8,
+    "add_special_tokens": false,
+    "top_k": -1,
+    "min_p": 0.0,
+    "repetition_penalty": 1.0,
+    "presence_penalty": 0.0,
+    "frequency_penalty": 0.0
+  }
+}

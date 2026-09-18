@@ -1,0 +1,12 @@
+{
+  "checkpoint": "released-main",
+  "template": "Released SFT model uses its own chat template; checked against historical Appendix A for a single user prompt.",
+  "methods_source": "https://github.com/arbdwj/VEA-through-training/blob/2b92e419499bae35a6226422fe0970c124683298/draft_old/post.md#L111-L157",
+  "engine_context_target": 20480,
+  "hardware": "Our planned endpoint: 2 A100 GPUs; documented research used 2 H100 GPUs.",
+  "repository": "https://github.com/arbdwj/VEA-through-training",
+  "source_commit": "2c1379ee9648c16884bb1634d554a27154d7a01c",
+  "max_tokens": "8192 documented in historical Appendix B; supported by published JBB results.",
+  "sampling": "8 samples, temperature=0.6, top_p=0.95, seed=42: historical Appendix B. Exact generator and software versions unavailable.",
+  "reference": "Released SFT selected for the mentor's stage comparison. The paper's step10000 result is a different checkpoint, not an exact target for this run."
+}

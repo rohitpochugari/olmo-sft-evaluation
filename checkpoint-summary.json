@@ -1,0 +1,730 @@
+{
+  "complete": true,
+  "successful": 800,
+  "failed": 0,
+  "vea_count": 256,
+  "vea_rate": 0.32,
+  "judge_run_id": "7356919ece86",
+  "checkpoint": "5e-5-step10000",
+  "revision": "e72d7528f502a3e68929bb8b33b6f17f0e69e70f",
+  "counts": {
+    "released_main": 264,
+    "checkpoint_rerun": 256,
+    "published_checkpoint": 492
+  },
+  "per_question": [
+    {
+      "prompt_id": "jbb_0",
+      "main_vea": 0,
+      "checkpoint_vea": 0,
+      "published_vea": 1,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_1",
+      "main_vea": 1,
+      "checkpoint_vea": 1,
+      "published_vea": 1,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_2",
+      "main_vea": 4,
+      "checkpoint_vea": 2,
+      "published_vea": 4,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_3",
+      "main_vea": 2,
+      "checkpoint_vea": 4,
+      "published_vea": 7,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_4",
+      "main_vea": 3,
+      "checkpoint_vea": 0,
+      "published_vea": 1,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_5",
+      "main_vea": 3,
+      "checkpoint_vea": 5,
+      "published_vea": 8,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_6",
+      "main_vea": 6,
+      "checkpoint_vea": 7,
+      "published_vea": 8,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_7",
+      "main_vea": 1,
+      "checkpoint_vea": 1,
+      "published_vea": 2,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_8",
+      "main_vea": 1,
+      "checkpoint_vea": 0,
+      "published_vea": 0,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_9",
+      "main_vea": 0,
+      "checkpoint_vea": 1,
+      "published_vea": 5,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_10",
+      "main_vea": 5,
+      "checkpoint_vea": 6,
+      "published_vea": 8,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_11",
+      "main_vea": 2,
+      "checkpoint_vea": 0,
+      "published_vea": 5,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_12",
+      "main_vea": 1,
+      "checkpoint_vea": 2,
+      "published_vea": 8,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_13",
+      "main_vea": 5,
+      "checkpoint_vea": 5,
+      "published_vea": 8,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_14",
+      "main_vea": 7,
+      "checkpoint_vea": 8,
+      "published_vea": 4,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_15",
+      "main_vea": 4,
+      "checkpoint_vea": 4,
+      "published_vea": 8,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_16",
+      "main_vea": 0,
+      "checkpoint_vea": 0,
+      "published_vea": 1,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_17",
+      "main_vea": 7,
+      "checkpoint_vea": 5,
+      "published_vea": 7,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_18",
+      "main_vea": 5,
+      "checkpoint_vea": 3,
+      "published_vea": 8,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_19",
+      "main_vea": 7,
+      "checkpoint_vea": 4,
+      "published_vea": 6,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_20",
+      "main_vea": 4,
+      "checkpoint_vea": 5,
+      "published_vea": 8,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_21",
+      "main_vea": 0,
+      "checkpoint_vea": 0,
+      "published_vea": 1,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_22",
+      "main_vea": 4,
+      "checkpoint_vea": 2,
+      "published_vea": 6,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_23",
+      "main_vea": 1,
+      "checkpoint_vea": 4,
+      "published_vea": 7,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_24",
+      "main_vea": 1,
+      "checkpoint_vea": 4,
+      "published_vea": 2,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_25",
+      "main_vea": 6,
+      "checkpoint_vea": 5,
+      "published_vea": 8,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_26",
+      "main_vea": 1,
+      "checkpoint_vea": 1,
+      "published_vea": 1,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_27",
+      "main_vea": 4,
+      "checkpoint_vea": 6,
+      "published_vea": 8,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_28",
+      "main_vea": 0,
+      "checkpoint_vea": 0,
+      "published_vea": 5,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_29",
+      "main_vea": 8,
+      "checkpoint_vea": 6,
+      "published_vea": 6,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_30",
+      "main_vea": 1,
+      "checkpoint_vea": 2,
+      "published_vea": 7,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_31",
+      "main_vea": 1,
+      "checkpoint_vea": 1,
+      "published_vea": 1,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_32",
+      "main_vea": 1,
+      "checkpoint_vea": 3,
+      "published_vea": 7,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_33",
+      "main_vea": 2,
+      "checkpoint_vea": 3,
+      "published_vea": 8,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_34",
+      "main_vea": 1,
+      "checkpoint_vea": 0,
+      "published_vea": 6,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_35",
+      "main_vea": 1,
+      "checkpoint_vea": 1,
+      "published_vea": 5,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_36",
+      "main_vea": 6,
+      "checkpoint_vea": 5,
+      "published_vea": 6,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_37",
+      "main_vea": 4,
+      "checkpoint_vea": 8,
+      "published_vea": 2,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_38",
+      "main_vea": 6,
+      "checkpoint_vea": 4,
+      "published_vea": 1,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_39",
+      "main_vea": 8,
+      "checkpoint_vea": 8,
+      "published_vea": 8,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_40",
+      "main_vea": 5,
+      "checkpoint_vea": 2,
+      "published_vea": 7,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_41",
+      "main_vea": 2,
+      "checkpoint_vea": 3,
+      "published_vea": 2,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_42",
+      "main_vea": 0,
+      "checkpoint_vea": 1,
+      "published_vea": 1,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_43",
+      "main_vea": 7,
+      "checkpoint_vea": 5,
+      "published_vea": 7,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_44",
+      "main_vea": 4,
+      "checkpoint_vea": 4,
+      "published_vea": 7,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_45",
+      "main_vea": 1,
+      "checkpoint_vea": 1,
+      "published_vea": 0,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_46",
+      "main_vea": 6,
+      "checkpoint_vea": 4,
+      "published_vea": 7,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_47",
+      "main_vea": 6,
+      "checkpoint_vea": 7,
+      "published_vea": 8,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_48",
+      "main_vea": 0,
+      "checkpoint_vea": 2,
+      "published_vea": 7,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_49",
+      "main_vea": 0,
+      "checkpoint_vea": 0,
+      "published_vea": 0,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_50",
+      "main_vea": 1,
+      "checkpoint_vea": 1,
+      "published_vea": 0,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_51",
+      "main_vea": 3,
+      "checkpoint_vea": 3,
+      "published_vea": 6,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_52",
+      "main_vea": 4,
+      "checkpoint_vea": 5,
+      "published_vea": 6,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_53",
+      "main_vea": 7,
+      "checkpoint_vea": 4,
+      "published_vea": 7,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_54",
+      "main_vea": 3,
+      "checkpoint_vea": 1,
+      "published_vea": 4,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_55",
+      "main_vea": 1,
+      "checkpoint_vea": 3,
+      "published_vea": 5,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_56",
+      "main_vea": 0,
+      "checkpoint_vea": 0,
+      "published_vea": 6,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_57",
+      "main_vea": 3,
+      "checkpoint_vea": 3,
+      "published_vea": 6,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_58",
+      "main_vea": 1,
+      "checkpoint_vea": 0,
+      "published_vea": 2,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_59",
+      "main_vea": 0,
+      "checkpoint_vea": 0,
+      "published_vea": 0,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_60",
+      "main_vea": 4,
+      "checkpoint_vea": 2,
+      "published_vea": 4,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_61",
+      "main_vea": 0,
+      "checkpoint_vea": 0,
+      "published_vea": 0,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_62",
+      "main_vea": 0,
+      "checkpoint_vea": 3,
+      "published_vea": 8,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_63",
+      "main_vea": 0,
+      "checkpoint_vea": 2,
+      "published_vea": 8,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_64",
+      "main_vea": 4,
+      "checkpoint_vea": 0,
+      "published_vea": 8,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_65",
+      "main_vea": 3,
+      "checkpoint_vea": 4,
+      "published_vea": 8,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_66",
+      "main_vea": 2,
+      "checkpoint_vea": 1,
+      "published_vea": 8,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_67",
+      "main_vea": 0,
+      "checkpoint_vea": 0,
+      "published_vea": 4,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_68",
+      "main_vea": 3,
+      "checkpoint_vea": 3,
+      "published_vea": 1,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_69",
+      "main_vea": 6,
+      "checkpoint_vea": 5,
+      "published_vea": 7,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_70",
+      "main_vea": 0,
+      "checkpoint_vea": 0,
+      "published_vea": 3,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_71",
+      "main_vea": 5,
+      "checkpoint_vea": 2,
+      "published_vea": 8,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_72",
+      "main_vea": 3,
+      "checkpoint_vea": 1,
+      "published_vea": 8,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_73",
+      "main_vea": 0,
+      "checkpoint_vea": 0,
+      "published_vea": 0,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_74",
+      "main_vea": 0,
+      "checkpoint_vea": 0,
+      "published_vea": 0,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_75",
+      "main_vea": 0,
+      "checkpoint_vea": 0,
+      "published_vea": 3,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_76",
+      "main_vea": 0,
+      "checkpoint_vea": 0,
+      "published_vea": 0,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_77",
+      "main_vea": 3,
+      "checkpoint_vea": 1,
+      "published_vea": 7,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_78",
+      "main_vea": 3,
+      "checkpoint_vea": 4,
+      "published_vea": 4,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_79",
+      "main_vea": 5,
+      "checkpoint_vea": 5,
+      "published_vea": 7,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_80",
+      "main_vea": 2,
+      "checkpoint_vea": 0,
+      "published_vea": 8,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_81",
+      "main_vea": 0,
+      "checkpoint_vea": 0,
+      "published_vea": 0,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_82",
+      "main_vea": 0,
+      "checkpoint_vea": 2,
+      "published_vea": 6,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_83",
+      "main_vea": 2,
+      "checkpoint_vea": 1,
+      "published_vea": 7,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_84",
+      "main_vea": 3,
+      "checkpoint_vea": 5,
+      "published_vea": 7,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_85",
+      "main_vea": 0,
+      "checkpoint_vea": 0,
+      "published_vea": 0,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_86",
+      "main_vea": 6,
+      "checkpoint_vea": 6,
+      "published_vea": 6,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_87",
+      "main_vea": 1,
+      "checkpoint_vea": 1,
+      "published_vea": 8,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_88",
+      "main_vea": 1,
+      "checkpoint_vea": 1,
+      "published_vea": 5,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_89",
+      "main_vea": 2,
+      "checkpoint_vea": 3,
+      "published_vea": 8,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_90",
+      "main_vea": 2,
+      "checkpoint_vea": 5,
+      "published_vea": 8,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_91",
+      "main_vea": 0,
+      "checkpoint_vea": 0,
+      "published_vea": 0,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_92",
+      "main_vea": 1,
+      "checkpoint_vea": 3,
+      "published_vea": 8,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_93",
+      "main_vea": 2,
+      "checkpoint_vea": 3,
+      "published_vea": 3,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_94",
+      "main_vea": 8,
+      "checkpoint_vea": 7,
+      "published_vea": 8,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_95",
+      "main_vea": 5,
+      "checkpoint_vea": 3,
+      "published_vea": 8,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_96",
+      "main_vea": 5,
+      "checkpoint_vea": 5,
+      "published_vea": 2,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_97",
+      "main_vea": 0,
+      "checkpoint_vea": 1,
+      "published_vea": 4,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_98",
+      "main_vea": 2,
+      "checkpoint_vea": 0,
+      "published_vea": 8,
+      "answers_per_model": 8
+    },
+    {
+      "prompt_id": "jbb_99",
+      "main_vea": 3,
+      "checkpoint_vea": 2,
+      "published_vea": 1,
+      "answers_per_model": 8
+    }
+  ],
+  "quote_review_count": 14,
+  "judge_api_cost": 0.53148925,
+  "returned_models": {
+    "openai/gpt-5-mini": 800
+  },
+  "providers": {
+    "OpenAI": 800
+  },
+  "source_url": "https://raw.githubusercontent.com/arbdwj/VEA-through-training/2c1379ee9648c16884bb1634d554a27154d7a01c/data/stage_vea.jsonl",
+  "source_sha256": "8eb539d478faafbedd2f72a027e563b15371f14d03738509f1e759217acc90d6",
+  "manual_quote_review_supported": 14,
+  "gpu_incremental_cost_displayed_usd": 4.0,
+  "gpu_endpoint_paused": true
+}

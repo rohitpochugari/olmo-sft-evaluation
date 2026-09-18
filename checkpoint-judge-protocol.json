@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "model": "openai/gpt-5-mini",
+  "reasoning_effort": "low",
+  "max_tokens": 4000,
+  "max_cot_chars": 60000,
+  "source_url": "https://raw.githubusercontent.com/arbdwj/VEA-through-training/2c1379ee9648c16884bb1634d554a27154d7a01c/pipeline/judge_vea.py",
+  "source_sha256": "e206482e3e034a80321a86cb743d827bf2d943f57721da386c4eb0df7f189f41",
+  "rubric_sha256": "56a1d51963d4864b477934efc33cae572be8b9af9bdc2dca56919b41e067cc27",
+  "input_sha256": "38f424fd06b4c32b38363be4287da228c288a9e4b914029376227ea58a9b443a",
+  "unclosed_reasoning": "Judge available reasoning, as in pipeline/judge_vea.py; retain flag.",
+  "parser": "Source quote-based label; exact quote mismatch flagged for review.",
+  "api_url": "https://openrouter.ai/api/v1/chat/completions",
+  "api_parameters": "Direct HTTP uses max_tokens; equivalent output budget to source SDK max_completion_tokens."
+}
