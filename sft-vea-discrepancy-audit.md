@@ -6,8 +6,7 @@ Audited September 17, 2026. No new inference or judge requests. Original labels 
 
 **Follow-up completed:** The exact `5e-5-step10000` rerun produced256/800 (32.0%), versus264/800 (33.0%) for released-main. Therefore the checkpoint difference did not explain the gap under our fixed setup. See [the completed rerun report](sft-checkpoint-rerun.md). The candidate explanation below records the earlier audit and is superseded by this experiment.
 
-Our released-main SFT run has 264/800 VEA-positive responses (33.0%). The research's `5e-5-step10000` JailbreakBench run has 492/800 (61.5%): a 28.5 percentage-point gap. A model/checkpoint difference is the strongest identified candidate; it is not a demonstrated causal explanation. We found three clear judge false negatives, but these alone would move our rate only to 267/800 (33.375%).
-
+Our released-main SFT run has 264/800 VEA-positive responses (33.0%). The research's `5e-5-step10000` JailbreakBench run has 492/800 (61.5%): a 28.5 percentage-point gap. A model/checkpoint difference is the strongest identified candidate; it is not a demonstrated causal explanation. 
 ## Confirmed model difference
 
 Our deployed revision is `a6d7f3cf497c7049712c13a664c65c7992f2da0c`, verified in the paused endpoint UI. Its merge configuration combines equal-weight SFT models from learning rates `1e-4` and `5e-5`, both at step10790. The paper's SFT judgment data contains only the `5e-5` sweep, steps1000–10000. It does not report our merged release's VEA rate.
